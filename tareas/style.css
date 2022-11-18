@@ -1,0 +1,9 @@
+/*
+estilo de texto 
+*/
+@import url('https://fonts.googleapis.com/css2?family=Sono:wght@500&display=swap');
+
+
+#elemento1, #elemento-1{color: red;}
+#elemento1{font-size: 2rem;}
+
